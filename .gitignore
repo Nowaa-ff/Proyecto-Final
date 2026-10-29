@@ -1,0 +1,20 @@
+# Entornos virtuales de Python
+venv/
+.venv/
+env/
+ENV/
+
+# Archivos de caché compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos generados de Excel
+*.xlsx
+reporte_trivia.xlsx
+
+# Configuraciones de editores
+.vscode/
+.idea/
+*.swp
+*.swo

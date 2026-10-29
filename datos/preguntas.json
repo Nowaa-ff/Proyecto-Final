@@ -1,0 +1,242 @@
+[
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo?",
+    "opciones": ["Río Amazonas", "Río Nilo", "Río Misisipi", "Río Danubio"],
+    "respuesta_correcta": 1,
+    "categoria": "Cultura General"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Australia?",
+    "opciones": ["Sídney", "Melbourne", "Canberra", "Brisbane"],
+    "respuesta_correcta": 3,
+    "categoria": "Cultura General"
+  },
+  {
+    "pregunta": "¿En qué país se encuentra la famosa Torre de Pisa?",
+    "opciones": ["Francia", "Italia", "España", "Grecia"],
+    "respuesta_correcta": 2,
+    "categoria": "Cultura General"
+  },
+  {
+    "pregunta": "¿Qué idioma cuenta con la mayor cantidad de hablantes nativos en el mundo?",
+    "opciones": ["Inglés", "Español", "Chino Mandarín", "Hindi"],
+    "respuesta_correcta": 3,
+    "categoria": "Cultura General"
+  },
+  {
+    "pregunta": "¿Cuál es el océano más grande y profundo de la Tierra?",
+    "opciones": ["Océano Atlántico", "Océano Índico", "Océano Ártico", "Océano Pacífico"],
+    "respuesta_correcta": 4,
+    "categoria": "Cultura General"
+  },
+  {
+    "pregunta": "¿Qué país europeo tiene una forma geográfica característica de bota?",
+    "opciones": ["Italia", "Portugal", "Grecia", "Noruega"],
+    "respuesta_correcta": 1,
+    "categoria": "Cultura General"
+  },
+  {
+    "pregunta": "¿En qué continente se encuentra ubicado Egipto?",
+    "opciones": ["Asia", "África", "Europa", "Oceanía"],
+    "respuesta_correcta": 2,
+    "categoria": "Cultura General"
+  },
+  {
+    "pregunta": "¿Cuál es la obra literaria más vendida de la historia después de la Biblia?",
+    "opciones": ["Don Quijote de la Mancha", "Harry Potter", "El Principito", "El Señor de los Anillos"],
+    "respuesta_correcta": 1,
+    "categoria": "Cultura General"
+  },
+  {
+    "pregunta": "¿Cuál es el país con mayor extensión territorial del planeta?",
+    "opciones": ["Canadá", "Estados Unidos", "Rusia", "China"],
+    "respuesta_correcta": 3,
+    "categoria": "Cultura General"
+  },
+  {
+    "pregunta": "¿Quién pintó la célebre obra renacentista 'La Gioconda' (Mona Lisa)?",
+    "opciones": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Miguel Ángel"],
+    "respuesta_correcta": 2,
+    "categoria": "Cultura General"
+  },
+  {
+    "pregunta": "¿Cuál es el elemento químico más abundante en el universo observable?",
+    "opciones": ["Oxígeno", "Hidrógeno", "Helio", "Carbono"],
+    "respuesta_correcta": 2,
+    "categoria": "Ciencia"
+  },
+  {
+    "pregunta": "¿Qué planeta del Sistema Solar es conocido popularmente como el 'Planeta Rojo'?",
+    "opciones": ["Venus", "Júpiter", "Marte", "Mercurio"],
+    "respuesta_correcta": 3,
+    "categoria": "Ciencia"
+  },
+  {
+    "pregunta": "¿Cuál es la velocidad aproximada de propagación de la luz en el vacío?",
+    "opciones": ["300.000 km/s", "150.000 km/s", "3.000 km/s", "1.000.000 km/s"],
+    "respuesta_correcta": 1,
+    "categoria": "Ciencia"
+  },
+  {
+    "pregunta": "¿Qué órgano del cuerpo humano consume la mayor proporción de energía y oxígeno?",
+    "opciones": ["El corazón", "El cerebro", "El hígado", "Los pulmones"],
+    "respuesta_correcta": 2,
+    "categoria": "Ciencia"
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula química fundamental del agua?",
+    "opciones": ["CO2", "H2O", "NaCl", "CH4"],
+    "respuesta_correcta": 2,
+    "categoria": "Ciencia"
+  },
+  {
+    "pregunta": "¿Qué fuerza fundamental mantiene a los cuerpos sobre la superficie terrestre?",
+    "opciones": ["Fuerza electromagnética", "Fuerza nuclear fuerte", "Fuerza de gravedad", "Fuerza centrífuga"],
+    "respuesta_correcta": 3,
+    "categoria": "Ciencia"
+  },
+  {
+    "pregunta": "¿Cuántos huesos componen aproximadamente el esqueleto de un ser humano adulto?",
+    "opciones": ["180 huesos", "206 huesos", "250 huesos", "300 huesos"],
+    "respuesta_correcta": 2,
+    "categoria": "Ciencia"
+  },
+  {
+    "pregunta": "¿A qué clase biológica de animales pertenecen las ballenas y los delfines?",
+    "opciones": ["Peces", "Anfibios", "Mamíferos", "Reptiles"],
+    "respuesta_correcta": 3,
+    "categoria": "Ciencia"
+  },
+  {
+    "pregunta": "¿Cómo se denomina el proceso mediante el cual las plantas convierten la luz solar en alimento?",
+    "opciones": ["Respiración celular", "Fotosíntesis", "Fermentación", "Transpiración"],
+    "respuesta_correcta": 2,
+    "categoria": "Ciencia"
+  },
+  {
+    "pregunta": "¿Qué gas atmosférico es indispensable para la respiración de los seres vivos aeróbicos?",
+    "opciones": ["Nitrógeno", "Oxígeno", "Dióxido de carbono", "Argón"],
+    "respuesta_correcta": 2,
+    "categoria": "Ciencia"
+  },
+  {
+    "pregunta": "¿En qué año se produjo la llegada de la expedición de Cristóbal Colón a tierras americanas?",
+    "opciones": ["1492", "1489", "1500", "1512"],
+    "respuesta_correcta": 1,
+    "categoria": "Historia"
+  },
+  {
+    "pregunta": "¿Quién fue proclamado como el primer presidente de los Estados Unidos de América?",
+    "opciones": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+    "respuesta_correcta": 3,
+    "categoria": "Historia"
+  },
+  {
+    "pregunta": "¿En qué año estalló la Primera Guerra Mundial?",
+    "opciones": ["1914", "1918", "1939", "1945"],
+    "respuesta_correcta": 1,
+    "categoria": "Historia"
+  },
+  {
+    "pregunta": "¿Qué civilización precolombina erigió la célebre pirámide de Kukulkán en Chichén Itzá?",
+    "opciones": ["Inca", "Azteca", "Maya", "Tolteca"],
+    "respuesta_correcta": 3,
+    "categoria": "Historia"
+  },
+  {
+    "pregunta": "¿Cuál fue el primer metal que las sociedades prehistóricas aprendieron a fundir y moldear?",
+    "opciones": ["Hierro", "Cobre", "Oro", "Plata"],
+    "respuesta_correcta": 2,
+    "categoria": "Historia"
+  },
+  {
+    "pregunta": "¿En qué año ocurrió la histórica caída del Muro de Berlín?",
+    "opciones": ["1979", "1989", "1991", "1985"],
+    "respuesta_correcta": 2,
+    "categoria": "Historia"
+  },
+  {
+    "pregunta": "¿Qué monarca francés de la dinastía Borbón fue apodado 'El Rey Sol'?",
+    "opciones": ["Luis XIV", "Luis XVI", "Carlos IX", "Felipe IV"],
+    "respuesta_correcta": 1,
+    "categoria": "Historia"
+  },
+  {
+    "pregunta": "¿Qué gran imperio de la antigüedad edificó el Anfiteatro Flavio, conocido como el Coliseo?",
+    "opciones": ["Imperio Griego", "Imperio Romano", "Imperio Persa", "Imperio Cartaginés"],
+    "respuesta_correcta": 2,
+    "categoria": "Historia"
+  },
+  {
+    "pregunta": "¿En qué año concluyó oficialmente la Segunda Guerra Mundial?",
+    "opciones": ["1943", "1944", "1945", "1948"],
+    "respuesta_correcta": 3,
+    "categoria": "Historia"
+  },
+  {
+    "pregunta": "¿Qué prócer sudamericano es históricamente reconocido como 'El Libertador' de América del Sur?",
+    "opciones": ["José de San Martín", "Simón Bolívar", "Bernardo O'Higgins", "Antonio Nariño"],
+    "respuesta_correcta": 2,
+    "categoria": "Historia"
+  },
+  {
+    "pregunta": "¿Cada cuántos años se llevan a cabo los Juegos Olímpicos de Verano?",
+    "opciones": ["2 años", "3 años", "4 años", "5 años"],
+    "respuesta_correcta": 3,
+    "categoria": "Deportes"
+  },
+  {
+    "pregunta": "¿Qué país se consagró campeón en la Copa Mundial de Fútbol de la FIFA Qatar 2022?",
+    "opciones": ["Francia", "Brasil", "Argentina", "Croacia"],
+    "respuesta_correcta": 3,
+    "categoria": "Deportes"
+  },
+  {
+    "pregunta": "¿Cuántos jugadores de un mismo equipo están presentes en la cancha de baloncesto durante el juego?",
+    "opciones": ["5 jugadores", "6 jugadores", "7 jugadores", "11 jugadores"],
+    "respuesta_correcta": 1,
+    "categoria": "Deportes"
+  },
+  {
+    "pregunta": "¿En qué disciplina deportiva se consagró como leyenda el tenista español Rafael Nadal?",
+    "opciones": ["Tenis", "Natación", "Ciclismo", "Golf"],
+    "respuesta_correcta": 1,
+    "categoria": "Deportes"
+  },
+  {
+    "pregunta": "¿Cuánto tiempo dura reglamentariamente un partido de fútbol profesional sin prórroga?",
+    "opciones": ["80 minutos", "90 minutos", "100 minutos", "60 minutos"],
+    "respuesta_correcta": 2,
+    "categoria": "Deportes"
+  },
+  {
+    "pregunta": "¿En qué deporte de raqueta se compite golpeando un volante o pluma en lugar de una pelota?",
+    "opciones": ["Bádminton", "Squash", "Pádel", "Tenis de mesa"],
+    "respuesta_correcta": 1,
+    "categoria": "Deportes"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua nacieron originalmente los Juegos Olímpicos?",
+    "opciones": ["Antigua Roma", "Antiguo Egipto", "Antigua Grecia", "Mesopotamia"],
+    "respuesta_correcta": 3,
+    "categoria": "Deportes"
+  },
+  {
+    "pregunta": "¿Qué nadador ostenta el récord de más medallas olímpicas de oro en la historia del deporte?",
+    "opciones": ["Michael Phelps", "Usain Bolt", "Ian Thorpe", "Mark Spitz"],
+    "respuesta_correcta": 1,
+    "categoria": "Deportes"
+  },
+  {
+    "pregunta": "¿Cómo se llama la anotación de mayor valor en el fútbol americano, equivalente a 6 puntos?",
+    "opciones": ["Field goal", "Touchdown", "Try", "Safety"],
+    "respuesta_correcta": 2,
+    "categoria": "Deportes"
+  },
+  {
+    "pregunta": "¿Sobre qué superficie tradicional se disputa el prestigioso torneo de tenis de Roland Garros?",
+    "opciones": ["Césped natural", "Polvo de ladrillo (tierra batida)", "Cemento duro", "Pasto sintético"],
+    "respuesta_correcta": 2,
+    "categoria": "Deportes"
+  }
+]
