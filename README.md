@@ -111,9 +111,10 @@ python main.py
 
 ## Uso de Inteligencia Artificial
 
-Durante el desarrollo se utilizaron herramientas de IA como asistentes de desarrollo: para generar ideas, depurar errores de sintaxis y estructurar la documentación.
+#### Durante el desarrollo se utilizaron herramientas de IA como asistentes de desarrollo: para generar ideas, depurar errores de sintaxis y estructurar la documentación.
 
-Además, se utilizó Antigravity (entorno de desarrollo con agente de IA) para mejorar la portabilidad de la ejecución: los lanzadores iniciar.bat e iniciar.sh, la configuración opcional de Docker y Codespaces, y la actualización de esta documentación. La lógica del juego, las preguntas, el sistema de puntos y el diseño de la aplicación no fueron modificados por el agente. Todo el código fue revisado y es explicado por el autor.
+#### Además, se utilizó Antigravity (entorno de desarrollo con agente de IA) para mejorar la portabilidad de la ejecución: los lanzadores iniciar.bat e iniciar.sh, la configuración opcional de Docker y Codespaces, y la actualización de esta documentación. La lógica del juego, las preguntas, el sistema de puntos y el diseño de la aplicación no fueron modificados por el agente. Todo el código fue revisado y es explicado por el autor.
+
 ---
 
 ## Créditos
