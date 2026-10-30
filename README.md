@@ -1,18 +1,18 @@
-# 🧠 Trivia App & Ranking Manager 🏆
+# Trivia App & Ranking Manager 
 
 **Proyecto Final de Programación en Python (Nivel Secundario)**  
 *Aplicación de consola interactiva para jugar trivias, gestionar rankings competitivos y exportar reportes estadísticos a Microsoft Excel.*
 
 ---
 
-## 📌 ¿Para qué sirve?
+## ¿Para qué sirve?
 **Trivia App & Ranking Manager** es un juego educativo de preguntas y respuestas en consola diseñado para evaluar conocimientos en diversas temáticas, cronometrar el tiempo de respuesta de cada jugador, premiar la velocidad y generar automáticamente reportes estadísticos en formato Excel (.xlsx).
 
 El proyecto fue desarrollado con un enfoque modular, simple y claro, utilizando funciones con nombres descriptivos en español y comentarios explicativos en cada bloque de código, facilitando su comprensión y defensa en exposiciones orales escolares.
 
 ---
 
-## 🚀 Funcionalidades Principales
+## Funcionalidades Principales
 
 1. **Menú Interactivo y Navegación Guiada**:
    - Menú intuitivo por opciones numeradas (1 al 4) con control de errores para entradas no válidas.
@@ -45,22 +45,22 @@ El proyecto fue desarrollado con un enfoque modular, simple y claro, utilizando 
 
 ---
 
-## 📚 Bibliotecas Utilizadas
+## Bibliotecas Utilizadas
 
-### 🔹 Bibliotecas Estándar de Python (No requieren instalación adicional)
+### Bibliotecas Estándar de Python (No requieren instalación adicional)
 - `json`: Manejo de lectura y escritura del banco de preguntas (`preguntas.json`) y la persistencia del historial de partidas (`usuarios.json`).
 - `random`: Selección aleatoria y sin repetición de preguntas para cada partida (`random.sample`).
 - `time`: Medición precisa del tiempo de respuesta del jugador (`time.time()`).
 - `datetime`: Registro de la fecha y hora exacta en la que se disputó cada partida (`datetime.now()`).
 - `statistics`: Cálculo matemático riguroso del promedio de puntos (`statistics.mean`), promedio de efectividad y categoría más popular (`statistics.mode`).
 
-### 🔸 Bibliotecas Externas (Instalables vía pip)
+### Bibliotecas Externas (Instalables vía pip)
 - `rich`: Renderizado en consola de paneles, tablas coloreadas, barras de progreso y estilos visuales modernos.
 - `openpyxl`: Creación, diseño de celdas, aplicación de estilos y guardado del archivo de hoja de cálculo `reporte_trivia.xlsx`.
 
 ---
 
-## 📂 Estructura de Archivos
+## Estructura de Archivos
 
 ```text
 Proyecto-Final/
@@ -109,11 +109,13 @@ python main.py
 
 ---
 
-## 🤖 Plan de Trabajo y uso de IA
-Para este proyecto **no se utilizará un agente autónomo de IA**. Se utilizaron herramientas de IA exclusivamente como asistentes de desarrollo para la generación de ideas, depuración de errores de sintaxis y estructuración de la documentación del proyecto.
+## Uso de Inteligencia Artificial
 
+Durante el desarrollo se utilizaron herramientas de IA como asistentes de desarrollo: para generar ideas, depurar errores de sintaxis y estructurar la documentación.
+
+Además, se utilizó Antigravity (entorno de desarrollo con agente de IA) para mejorar la portabilidad de la ejecución: los lanzadores iniciar.bat e iniciar.sh, la configuración opcional de Docker y Codespaces, y la actualización de esta documentación. La lógica del juego, las preguntas, el sistema de puntos y el diseño de la aplicación no fueron modificados por el agente. Todo el código fue revisado y es explicado por el autor.
 ---
 
-## 🏆 Créditos
+## Créditos
 - **Proyecto Final de Programación**
 - Desarrollado en Python 3 para entorno escolar y educativo.
